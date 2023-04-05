@@ -63,21 +63,6 @@ The face recognition model can be used for various applications, such as securit
 
 
 
-
-### Zip file github
-
-![github](https://github.com/imadarsh9686/3D-face-recognition-one-shot-learning-/blob/main/face%20reco2/scrren%20shots/download%20zip%20file%20from%20github%20.png)
-
-
-
-
-### Zip file github
-
-![github](https://github.com/imadarsh9686/3D-face-recognition-one-shot-learning-/blob/main/face%20reco2/scrren%20shots/download%20zip%20file%20from%20github%20.png)
-
-
-
-
 ### Pycharm view 
 
 ![Pycharm](https://github.com/imadarsh9686/3D-face-recognition-one-shot-learning-/blob/main/face%20reco2/scrren%20shots/1%20pic%20pycharm.png)
