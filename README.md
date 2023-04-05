@@ -12,8 +12,7 @@ Experienced data scientist with expertise in NLP, ML, and DL. Proficient in Pyth
 
 
 # 3D Face Recognition with Liveness Recognition (one shot learning)
-
-https://github.com/imadarsh9686/3D-face-recognition-one-shot-learning-/blob/main/face%20reco2/scrren%20shots/face%20reco%20gif.gif
+![SIAMESE](https://github.com/imadarsh9686/3D-face-recognition-one-shot-learning-/blob/main/face%20reco2/scrren%20shots/face%20reco%20gif.gif)
 
 The face recognition model created using the face_recognition library and OpenCV utilizes a unique architecture called the Siamese architecture with one-shot learning.
 
