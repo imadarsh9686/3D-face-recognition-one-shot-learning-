@@ -64,11 +64,11 @@ The face recognition model can be used for various applications, such as securit
 ## 3) Copy the path of the dlib library from folder (Dlib-python whl packages)
 - Copy the path of dlib library 3rd one from file with name (Dlib-python whl packages)  
 - see below image to copy path
-### Coping path of Dlib library    
+### Copying path of Dlib library    
 
 ![Pycharm](https://github.com/imadarsh9686/3D-face-recognition-one-shot-learning-/blob/main/face%20reco2/scrren%20shots/2%20file%20directory%20pic%20.png)
 
-### Coping path of Dlib library    
+### Copying path of Dlib library    
 
 ![Pycharm](https://github.com/imadarsh9686/3D-face-recognition-one-shot-learning-/blob/main/face%20reco2/scrren%20shots/3%20path%20of%20the%20d%20lib.png)
 
