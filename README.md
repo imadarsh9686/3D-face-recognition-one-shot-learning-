@@ -46,16 +46,10 @@ The face recognition model can be used for various applications, such as securit
 
 ##  2) Download zip file or clone the project from git hub 
 
-
-
 - Extrcat  files inside the new vertual environment project created
   
 - Open pycharm and open the project where you extracted a files 
  
-## 1) Create new project virtual environment in pycharm with pyathon 3.9
-
-- open pycharm and create virtual environment with python 3.9 
-
 
 ### Zip file github
 
@@ -77,6 +71,7 @@ The face recognition model can be used for various applications, such as securit
 ### Coping path of Dlib library    
 
 ![Pycharm](https://github.com/imadarsh9686/3D-face-recognition-one-shot-learning-/blob/main/face%20reco2/scrren%20shots/3%20path%20of%20the%20d%20lib.png)
+
 ## 4) Installing dlib library using copied path in terminal
 - open terminal below 
 -  write pip install code and paste copied path after the code as show below
