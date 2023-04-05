@@ -13,6 +13,8 @@ Experienced data scientist with expertise in NLP, ML, and DL. Proficient in Pyth
 
 # 3D Face Recognition with Liveness Recognition (one shot learning)
 
+https://github.com/imadarsh9686/3D-face-recognition-one-shot-learning-/blob/main/face%20reco2/scrren%20shots/face%20reco%20gif.gif
+
 The face recognition model created using the face_recognition library and OpenCV utilizes a unique architecture called the Siamese architecture with one-shot learning.
 
 Siamese architecture is a neural network architecture that uses two identical subnetworks that share weights and are trained simultaneously. In the case of face recognition, each subnetwork takes in an image of a face, and the outputs are compared to determine whether the faces belong to the same person or not. One-shot learning is a technique where the model is trained on just one or a few examples of each person's face.
